@@ -1,0 +1,1 @@
+This public repository reflects the commits from a private repo Map Wooter containing the commit messages containing the commit messages and the dummy files with .swift extension. The private repo is written in Swift 2.0 and I was responsible to build the app from the start
